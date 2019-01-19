@@ -5,7 +5,7 @@ New and old code notebooks made for Kaggle competitions. My GitHub can get rathe
 
 (My red-headed stepchild Indeed Machine Learning Competition is also in here, despite being hosted on HackerRank)
 
-# Google-Analytics-Data-Analysis
+# Google_Analytics_Data_Analysis
 Data visualization and analysis of Google Analytic data from the Gstore (EDA)
 
 This is exploritory data analysis for the Google Analytics Customer Revenue Prediction Competion on Kaggle. The competition ended on November 30th 2018 and the results are evaluated on future data compiled between December 1st 2018 to January 31st 2019.
