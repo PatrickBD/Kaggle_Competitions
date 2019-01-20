@@ -80,3 +80,11 @@ My Notebook for Plant Seedlings Classification Image Processing Challenge on Kag
 I used this with some voting ensembling between model variations for my final score.
 
 The Kaggle competition and related dataset can be found here: https://www.kaggle.com/c/plant-seedlings-classification
+
+# Turkey_Sound_Signature
+
+*In this competition you are tasked with finding the turkey sound signature from pre-extracted audio features.*
+
+A small quick playground competition that got to rank 5 without too much effort. Won some Kaggle swag from it too.
+
+The Kaggle competition and related dataset can be found here: https://www.kaggle.com/c/dont-call-me-turkey
