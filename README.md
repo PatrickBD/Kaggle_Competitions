@@ -18,6 +18,14 @@ U-Nets were the state of the art go to model for this type of object detection o
 
 The Kaggle competition and related dataset can be found here: https://www.kaggle.com/c/data-science-bowl-2018
 
+# DonorChoose.org_Application_Screening
+
+*The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.*
+
+Achieved 16th place in the competition overall (Top 3%)
+
+The Kaggle competition and related dataset can be found here: https://www.kaggle.com/c/donorschoose-application-screening
+
 # Google_Analytics_Data_Analysis
 Data visualization and analysis of Google Analytic data from the Gstore (EDA)
 
