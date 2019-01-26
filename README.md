@@ -18,6 +18,14 @@ U-Nets were the state of the art go to model for this type of object detection o
 
 The Kaggle competition and related dataset can be found here: https://www.kaggle.com/c/data-science-bowl-2018
 
+# Dog_Breed_Identification
+
+*You are provided a strictly canine subset of ImageNet in order to practice fine-grained image categorization. How well you can tell your Norfolk Terriers from your Norwich Terriers? With 120 breeds of dogs and a limited number training images per class, you might find the problem more, err, ruff than you anticipated.
+
+This notebook classifisy an image of a dog into 120 possible breeds. A straight forward classifier using VGG19, I don't normally use pre-trained models these days as I like to play around with custom structures. At the time I did not have much access to GPU serveces so that ended up being a limiting factor on how much I could train and customize this model.
+
+The Kaggle competition and related dataset can be found here: https://www.kaggle.com/c/dog-breed-identification
+
 # DonorChoose.org_Application_Screening
 
 *The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.*
